@@ -1,0 +1,11 @@
+## Interface: 110200
+## Title: |cffff4ff0SharedMedia - Degens|r
+## Notes: Inserts some media into LibSharedMedia's storage.
+## Author: Tas
+## X-Category: Miscellaneous
+
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+libs\LibSharedMedia-3.0\lib.xml
+embeds.xml
+DegenMedia.lua 
