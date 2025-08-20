@@ -34,6 +34,10 @@ LSM:Register("sound", "|cffff4ff0Degens - Moan|r", [[Interface\Addons\SharedMedi
 LSM:Register("sound", "|cffff4ff0Degens - HORSE CONCH|r", [[Interface\Addons\SharedMedia_Degens\sound\degens_horseConchFull.ogg]])
 LSM:Register("sound", "|cffff4ff0Degens - Horse Conch|r", [[Interface\Addons\SharedMedia_Degens\sound\degens_horseConchShort.ogg]])
 LSM:Register("sound", "|cffff4ff0Degens - Huh|r", [[Interface\Addons\SharedMedia_Degens\sound\degens_huh.ogg]])
+LSM:Register("sound", "|cffff4ff0Degens - America|r", [[Interface\Addons\SharedMedia_Degens\sound\degens_america.ogg]])
+LSM:Register("sound", "|cffff4ff0Degens - Solo Bolo|r", [[Interface\Addons\SharedMedia_Degens\sound\degens_solobolo.ogg]])
+
+LSM:Register("sound", "|cffff4ff0Trump - China|r", [[Interface\Addons\SharedMedia_Degens\sound\trump_china.ogg]])
 
 LSM:Register("sound", "|cffff4ff0Sinder - PPs|r", [[Interface\Addons\SharedMedia_Degens\sound\sinder_pps.ogg]])
 LSM:Register("sound", "|cffff4ff0Sinder - No no|r", [[Interface\Addons\SharedMedia_Degens\sound\sinder_no_no.ogg]])
